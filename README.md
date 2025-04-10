@@ -58,13 +58,13 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
  
 <h2>📄 Certifications</h2>
 
-![ISACA CISA](https://img.shields.io/badge/ISACA-CISA-008000?style=for-the-badge)]
+![ISACA CISA](https://img.shields.io/badge/ISACA-CISA-008000?style=for-the-badge)
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge)
 
 ![CISSP](https://img.shields.io/badge/ISC²-CISSP-008000?style=for-the-badge)
 
-![ISACA CISM](https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge)]
+![ISACA CISM](https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge)
 
 <h2> Let's Connect:</h2>
 
