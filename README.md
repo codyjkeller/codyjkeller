@@ -10,9 +10,9 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 <h2> Projects:</h2>
 
 <details>
-  <summary><b>Homelab</b></summary>
+  <summary><b>CISSP</b></summary>
   <ul>
-    <li><a href="https://github.com/" target="_blank">Helpdesk Homelab</a> - Guided.</li> 
+    <li><a href="https://github.com/" target="_blank">H</a> - Guided.</li> 
   </ul>
 </details>
 
