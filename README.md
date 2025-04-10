@@ -1,11 +1,11 @@
 <h1 align="center">I'm Cody<br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Security+Analyst;Always+Learning;Cybersecurity+Professional;Policy+Creator;Privacy+Specialist;Incident+Responder;Risk+Mitigator;Blue+Teamer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Cybersecurity+Professional;Always+Learning;Cybersecurity+Professional;Policy+Creator;Privacy+Specialist;Incident+Responder;Risk+Mitigator;Blue+Teamer" alt="Typing SVG"/>
 </p>
 
 <h2> About me:</h2>
 
-I am a strategic cybersecurity leader dedicated to architecting and implementing impactful security solutions that directly contribute to business resilience and growth. My focus is on proactively addressing the evolving threat landscape and meeting complex compliance requirements through comprehensive security strategies. Holding CISSP, CISM, and Security+ certifications, I bring a validated expertise to designing and maintaining robust security postures.<br/><br/> My approach hinges on fostering transparent communication and building strong, collaborative partnerships across all technical and business units. I believe that embedding a culture of shared security responsibility is key to success and am known for my meticulous attention to detail and positive approach to facilitating productive team environments. Executing security initiatives effectively requires not just technical skill, but also the ability to work seamlessly with diverse teams. On GitHub, I engage with projects related to security architecture, threat intelligence, and secure development lifecycles, driven by a commitment to continuous professional development. I actively seek opportunities to learn from and share insights with colleagues in the security community. Beyond the screen, I find balance and focus through hobbies like playing guitar and tending to my garden.
+I am a strategic cybersecurity leader dedicated to architecting and implementing impactful security solutions that directly contribute to business resilience and growth. My focus is on proactively addressing the evolving threat landscape and meeting complex compliance requirements through comprehensive security strategies. Holding CISSP, CISM, and Security+ certifications, I bring a validated expertise to designing and maintaining robust security postures.<br/><br/> My approach hinges on fostering transparent communication and building strong, collaborative partnerships across all technical and business units. I believe that embedding a culture of shared security responsibility is key to success and am known for my meticulous attention to detail and positive approach to facilitating productive team environments. Executing security initiatives effectively requires not just technical skill, but also the ability to work seamlessly with diverse teams. <br/><br/>On GitHub, I engage with projects related to security architecture, threat intelligence, and secure development lifecycles, driven by a commitment to continuous professional development. I actively seek opportunities to learn from and share insights with colleagues in the security community. Beyond the screen, I find balance and focus through hobbies like playing guitar and tending to my garden.
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
@@ -58,10 +58,9 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
  
 <h2>📄 Certifications</h2>
 
-[![ISACA CISM](https://img.shields.io/badge/CompTIA-A+-B31B1B?style=for-the-badge)](https://www.credly.com/badges/58589332-186f-4925-b703-bd7ffe4e9d16)
-[![ISACA CISA](https://img.shields.io/badge/CompTIA-Network+-B31B1B?style=for-the-badge)](https://www.credly.com/badges/2ec93ab1-d3a3-403e-a585-c61b520d50f6)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge)](https://www.credly.com/badges/efb5f21d-3462-4c4f-b407-8ba94155b732)
-[![CISSP](https://img.shields.io/badge/ISC²-SSCP-008000?style=for-the-badge)](https://www.credly.com/badges/22c578b6-0bce-4d15-95df-5dccc38878bf)
+[![ISACA CISA](https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge)]
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge)
+[![CISSP](https://img.shields.io/badge/ISC²-SSCP-008000?style=for-the-badge)
 
 <h2> 🤳🏻 Connect with me:</h2>
 
