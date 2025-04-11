@@ -27,11 +27,10 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 <details>
   <summary><b>Security Tools</b></summary>
   <ul>
-    <li><a href="https://github.com/codyjkeller/N" target="_blank">AI-Powered Log Anomaly Detector</a> - To Be Formalized</li>
-    <li><a href="https://github.com/codyjkeller/W" target="_blank">Intelligent Phishing Email Analyzer</a> - To Be Formalized</li>
-    <li><a href="https://github.com/codyjkeller/S target="_blank">Automated Threat Intelligeence Aggregator and Analyzer</a> - To Be Formalized</li>
-    <li><a href="https://github.com/codyjkeller/N" target="_blank">Smart Vulnerability Report Summarizier and Prioritizer</a> - To Be Formalized</li>
-    <li><a href="https://github.com/codyjkeller/F" target="_blank">Cloud Security Policy Auditor</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/AI-Powered-Log-Anomaly-Detector" target="_blank">AI-Powered Log Anomaly Detector</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/intelligent-email-analyzer" target="_blank">Intelligent Phishing Email Analyzer</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/Automated-Threat-Intelligence-Aggregator target="_blank">Automated Threat Intelligeence Aggregator and Analyzer</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/Basic-Web-Application-Vulnerability-Scanner" target="_blank">Web Application Vulnerability Scanner</a> - To Be Formalized</li>
 </details>
 
 <details>
