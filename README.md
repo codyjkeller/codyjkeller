@@ -10,34 +10,34 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 <h2> Projects:</h2>
 
 <details>
-  <summary><b>CISSP</b></summary>
+  <summary><b>CISSP Study Help</b></summary>
   <ul>
-    <li><a href="https://github.com/" target="_blank">H</a> - Guided.</li> 
+    <li><a href="https://github.com/" target="_blank">Project In Progress</a> - To Be Published Soon!</li> 
   </ul>
 </details>
 
 <details>
   <summary><b>Policy Based</b></summary>
   <ul>
-    <li><a href="https://github.com/" target="_blank">NIST 800-53r5 Analysis</a> - transitioning.</li> 
-    <li><a href="https://github.com/" target="_blank">CJIS Security Policvy 6.0 Analysis</a> - ability.</li>
+    <li><a href="https://github.com/" target="_blank">NIST 800-53r5 Analysis</a> - To Be Formalized</li> 
+    <li><a href="https://github.com/" target="_blank">CJIS Security Policy 6.0 Analysis</a> - To Be Formalized</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Security Tools</b></summary>
   <ul>
-    <li><a href="https://github.com/codyjkeller/N" target="_blank">AI-Powered Log Anomaly Detector</a> - Used.</li>
-    <li><a href="https://github.com/codyjkeller/W" target="_blank">Intelligent Phishing Email Analyzer</a> - Analyze.</li>
-    <li><a href="https://github.com/codyjkeller/S target="_blank">Automated Threat Intelligeence Aggregator and Analyzer</a> - Created.</li>
-    <li><a href="https://github.com/codyjkeller/N" target="_blank">Smart Vulnerability Report Summarizier and Prioritizer</a> - Used.</li>
-    <li><a href="https://github.com/codyjkeller/F" target="_blank">Cloud Security Policy Auditor</a> - Used.</li>
+    <li><a href="https://github.com/codyjkeller/N" target="_blank">AI-Powered Log Anomaly Detector</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/W" target="_blank">Intelligent Phishing Email Analyzer</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/S target="_blank">Automated Threat Intelligeence Aggregator and Analyzer</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/N" target="_blank">Smart Vulnerability Report Summarizier and Prioritizer</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller/F" target="_blank">Cloud Security Policy Auditor</a> - To Be Formalized</li>
 </details>
 
 <details>
-  <summary><b>Security Planning</b></summary>
+  <summary><b>Threat Intelligence</b></summary>
   <ul>
-    <li><a href="https://github.com/codyjkeller/" target="_blank">WLAN and Mobile Security Plan</a> - Identified.</li>
+    <li><a href="https://github.com/codyjkeller/" target="_blank">To Be Published</a> - To Be Published</li>
   </ul>
 </details>
 
@@ -49,10 +49,10 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 </details>
 
 <details>
-  <summary><b>Fun/Side-Projects</b></summary>
+  <summary><b>Fun Misc Projects</b></summary>
   <ul>
-    <li><a href="https://github.com/codyjkeller/" target="_blank">Cybersecurity Quiz</a> - Created</li>
-    <li><a href="https://github.com/codyjkeller/" target="_blank">CISSP Study Guide & Quiz</a> - Created</li>
+    <li><a href="https://github.com/codyjkeller/" target="_blank">To Be Published</a> - To Be Published</li>
+    <li><a href="https://github.com/codyjkeller/" target="_blank">To Be Published</a> - To Be Published</li>
   </ul>
 </details>
  
