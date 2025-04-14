@@ -1,4 +1,4 @@
-<h1 align="center">I'm Cody<br/>
+<h1 align="center">I'm Cody Keller<br/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Cybersecurity+Professional;Always+Learning;Cybersecurity+Professional;Policy+Creator;Privacy+Specialist;Incident+Responder;Risk+Mitigator;Blue+Teamer" alt="Typing SVG"/>
 </p>
@@ -12,15 +12,15 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 <details>
   <summary><b>CISSP Study Help</b></summary>
   <ul>
-    <li><a href="https://github.com/" target="_blank">Project In Progress</a> - To Be Published Soon!</li> 
+    <li><a href="https://github.com/codyjkeller/cissp" target="_blank">Notes In Progress</a> - Study Guide & Notes To Be Finalized!</li> 
   </ul>
 </details>
 
 <details>
   <summary><b>Policy Based</b></summary>
   <ul>
-    <li><a href="https://github.com/" target="_blank">NIST 800-53r5 Analysis</a> - To Be Formalized</li> 
-    <li><a href="https://github.com/" target="_blank">CJIS Security Policy 6.0 Analysis</a> - To Be Formalized</li>
+    <li><a href="https://github.com/codyjkeller" target="_blank">NIST 800-53r5 Analysis</a> - To Be Formalized</li> 
+    <li><a href="https://github.com/codyjkeller" target="_blank">CJIS Security Policy 6.0 Analysis</a> - To Be Formalized</li>
   </ul>
 </details>
 
