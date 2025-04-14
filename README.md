@@ -50,7 +50,7 @@ I am a strategic cybersecurity leader dedicated to architecting and implementing
 <details>
   <summary><b>Fun Misc Projects</b></summary>
   <ul>
-    <li><a href="https://github.com/codyjkeller/" target="_blank">To Be Published</a> - To Be Published</li>
+    <li><a href="https://github.com/codyjkeller/typing-game" target="_blank">Game In Progress</a> - To Be Updated!</li>
     <li><a href="https://github.com/codyjkeller/" target="_blank">To Be Published</a> - To Be Published</li>
   </ul>
 </details>
