@@ -32,5 +32,42 @@ While many GRC professionals focus on paperwork, I focus on **"Security as Code"
       The "Policy-as-Code" implementation of my 5-Layer Governance Model for GenAI adoption. Includes architectural diagrams and control mapping for LLM inputs/outputs.
     </td>
     <td width="50%">
-      <h3>🏛️ Civic Tech</h3>
-      <b><a href="https://github.com/codyjkeller/civic-pulse-bot">civic-pulse-bot</a></b><br/>
+      <h3>✅ Automated GRC</h3>
+      <b><a href="https://github.com/codyjkeller/soc2-evidence-automator">soc2-evidence-automator</a></b><br/>
+      Collection of Python/Boto3 scripts designed to "mock" audit evidence gathering, replacing manual screenshots with API-verified logs.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📜 Compliance Data</h3>
+      <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
+      Machine-readable (JSON/CSV) mapping of NIST 800-53 controls to "Plain English" requirements for GovTech startups.
+    </td>
+    <td width="50%">
+      <h3>📚 Resources</h3>
+      <b>Coming Soon...</b><br/>
+      Curated lists for GovTech Security tools and Homelab Infrastructure configurations.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📄 Certifications
+
+![ISC2 CISSP](https://img.shields.io/badge/ISC²-CISSP-008000?style=for-the-badge)
+![ISACA CISM](https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge)
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/codyjkeller" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ckcybersecurity.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ckcybersecurity.com-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+</p>
