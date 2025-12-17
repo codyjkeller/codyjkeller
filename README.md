@@ -50,15 +50,36 @@ While many GRC professionals focus on paperwork, I focus on **"Security as Code"
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2" align="center">
       <h3>📜 GovTech Compliance</h3>
       <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
       Machine-readable (JSON/CLI) mapping of NIST 800-53 controls to CJIS & TX-RAMP requirements for GovTech engineering teams.
     </td>
-    <td width="50%">
-      <h3>📫 Connect</h3>
-      <a href="https://www.linkedin.com/in/codyjkeller" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br/>
-      <a href="https://ckcybersecurity.com" target="_blank">
-        <img src="https://img.shields.io/badge/Website-ckcybersecurity.com-222?
+  </tr>
+</table>
+
+---
+
+### 📄 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC²-CISSP-008000?style=for-the-badge" alt="CISSP"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge" alt="CISM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge" alt="Security+"/>
+</p>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/codyjkeller" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://ckcybersecurity.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ckcybersecurity.com-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+</p>
