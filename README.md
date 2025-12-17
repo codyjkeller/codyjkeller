@@ -32,42 +32,33 @@ While many GRC professionals focus on paperwork, I focus on **"Security as Code"
       The "Policy-as-Code" implementation of my 5-Layer Governance Model for GenAI adoption. Includes architectural diagrams and control mapping for LLM inputs/outputs.
     </td>
     <td width="50%">
-      <h3>✅ Automated GRC</h3>
-      <b><a href="https://github.com/codyjkeller/soc2-evidence-automator">soc2-evidence-automator</a></b><br/>
-      Collection of Python/Boto3 scripts designed to "mock" audit evidence gathering, replacing manual screenshots with API-verified logs.
+      <h3>🛡️ Threat Intelligence</h3>
+      <b><a href="https://github.com/codyjkeller/ai-threat-intel-agent">ai-threat-intel-agent</a></b><br/>
+      Automated agent that aggregates CISA/NVD feeds (CVSS > 7.0) and uses GenAI to generate "Executive Daily Briefings" via Email/Slack.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📜 Compliance Data</h3>
-      <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
-      Machine-readable (JSON/CSV) mapping of NIST 800-53 controls to "Plain English" requirements for GovTech startups.
+      <h3>⚖️ Vendor Risk (TPRM)</h3>
+      <b><a href="https://github.com/codyjkeller/ai-tprm-analyzer">ai-tprm-analyzer</a></b><br/>
+      Automated risk assessment tool that uses LLMs to grade vendor questionnaires against internal security policies defined in YAML.
     </td>
     <td width="50%">
-      <h3>📚 Resources</h3>
-      <b>Coming Soon...</b><br/>
-      Curated lists for GovTech Security tools and Homelab Infrastructure configurations.
+      <h3>✅ Automated GRC</h3>
+      <b><a href="https://github.com/codyjkeller/soc2-evidence-automator">soc2-evidence-automator</a></b><br/>
+      Collection of Python/Boto3 scripts designed to "mock" audit evidence gathering, replacing manual screenshots with API-verified logs (S3/IAM).
     </td>
   </tr>
-</table>
-
----
-
-### 📄 Certifications
-
-![ISC2 CISSP](https://img.shields.io/badge/ISC²-CISSP-008000?style=for-the-badge)
-![ISACA CISM](https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge)
-
----
-
-### 📫 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/codyjkeller" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ckcybersecurity.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ckcybersecurity.com-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-  </a>
-</p>
+  <tr>
+    <td width="50%">
+      <h3>📜 GovTech Compliance</h3>
+      <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
+      Machine-readable (JSON/CLI) mapping of NIST 800-53 controls to CJIS & TX-RAMP requirements for GovTech engineering teams.
+    </td>
+    <td width="50%">
+      <h3>📫 Connect</h3>
+      <a href="https://www.linkedin.com/in/codyjkeller" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a><br/>
+      <a href="https://ckcybersecurity.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-ckcybersecurity.com-222?
