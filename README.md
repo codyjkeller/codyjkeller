@@ -51,23 +51,18 @@ While many GRC professionals focus on paperwork, I focus on **"Security as Code"
   </tr>
   <tr>
     <td width="50%">
-      <h3>📉 Strategic Risk Intelligence</h3>
-      <b><a href="https://github.com/codyjkeller/reg-fine-predictor">reg-fine-predictor</a></b><br/>
-      <b>(New)</b> Strategic data science tool using linear regression on 2015-2025 breach data to forecast potential regulatory financial liability.
-    </td>
-    <td width="50%">
       <h3>🚨 Legal Logic Engine</h3>
       <b><a href="https://github.com/codyjkeller/breach-notification-engine">breach-notification-engine</a></b><br/>
-      <b>(New)</b> Logic engine calculating mandatory notification deadlines for GDPR, HIPAA, SEC Form 8-K, and SOX based on incident severity.
+      <b>(New)</b> API-first logic engine calculating mandatory notification deadlines for GDPR, HIPAA, and SEC Form 8-K based on incident severity.
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>✅ Automated GRC</h3>
       <b><a href="https://github.com/codyjkeller/soc2-evidence-automator">soc2-evidence-automator</a></b><br/>
       Collection of Python/Boto3 scripts designed to "mock" audit evidence gathering, replacing manual screenshots with API-verified logs (S3/IAM).
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <h3>📜 GovTech Compliance</h3>
       <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
       Machine-readable (JSON/CLI) mapping of NIST 800-53 controls to CJIS & TX-RAMP requirements for GovTech engineering teams.
