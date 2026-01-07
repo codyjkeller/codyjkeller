@@ -14,11 +14,13 @@
 
 I bridge the gap between **high-assurance compliance** (CJIS, SOC 2, HIPAA) and **modern engineering**.
 
-While many GRC professionals focus on paperwork, I focus on **"Security as Code"**—building the architecture and automation that makes compliance invisible to the developer. Currently, I am architecting **AI Governance frameworks** and **Risk Intelligence tools** that allow enterprises to safely adopt GenAI without breaking regulatory controls.
+I define myself as a **"Technical GRC Leader."** While I am not a software engineer by trade, I refuse to lead strictly from a spreadsheet. I use **Python and AI** to prototype tools, automate evidence gathering, and validate my own architectural decisions.
 
-* 🔭 **Current Focus:** Building RAG Agents for vendor risk & predictive modeling for regulatory fines.
-* 💡 **Specialty:** Designing the "5-Layer Governance Model" for Enterprise AI Agents.
-* 🌱 **Tech Stack:** Python, Shell, Docker, Azure/AWS, LangChain, Scikit-Learn.
+My goal is **"Security as Code"**—building the architecture and automation that makes compliance invisible to the developer. Currently, I am architecting **AI Governance frameworks** and **Risk Intelligence tools** that allow enterprises to safely adopt GenAI without breaking regulatory controls.
+
+* 🔭 **Current Focus:** Prototyping RAG Agents for vendor risk & predictive modeling.
+* 💡 **Philosophy:** "Don't just write the policy—engineer the guardrails that enforce it."
+* 🌱 **Tech Stack:** Python (Automation), Policy-as-Code (YAML/OPA), GenAI Architecture, APIs.
 
 ---
 
