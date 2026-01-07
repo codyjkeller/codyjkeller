@@ -56,16 +56,9 @@ While many GRC professionals focus on paperwork, I focus on **"Security as Code"
       <b>(New)</b> API-first logic engine calculating mandatory notification deadlines for GDPR, HIPAA, and SEC Form 8-K based on incident severity.
     </td>
     <td width="50%">
-      <h3>✅ Automated GRC</h3>
-      <b><a href="https://github.com/codyjkeller/soc2-evidence-automator">soc2-evidence-automator</a></b><br/>
-      Collection of Python/Boto3 scripts designed to "mock" audit evidence gathering, replacing manual screenshots with API-verified logs (S3/IAM).
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>📜 GovTech Compliance</h3>
-      <b><a href="https://github.com/codyjkeller/nist-800-53-mapper">nist-800-53-mapper</a></b><br/>
-      Machine-readable (JSON/CLI) mapping of NIST 800-53 controls to CJIS & TX-RAMP requirements for GovTech engineering teams.
+      <h3>🪐 Cloud Security (IaC)</h3>
+      <b><a href="https://github.com/codyjkeller/death-star-iac-security">death-star-iac-security</a></b><br/>
+      <i>(Just for fun)</i> A "Mock" Infrastructure-as-Code scanner that audits the Death Star's Terraform plans and detects the critical thermal exhaust port vulnerability.
     </td>
   </tr>
 </table>
