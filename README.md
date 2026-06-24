@@ -1,7 +1,7 @@
 <h1 align="center">Cody Keller</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Strategic+Security+Leader;AI+Governance+Architect;Risk+Intelligence+&+Data+Science;Automated+GRC+Engineer;GovTech+Specialist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Strategic+Security+Leader;AI+Governance+Architect;Risk+Intelligence+%26+Data+Science;Automated+GRC+Engineer;GovTech+Specialist" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ My goal is **"Security as Code"**—building the architecture and automation tha
     <td width="50%">
       <h3>AI Vendor Response (RAG)</h3>
       <b><a href="https://github.com/codyjkeller/ai-vendor-response-agent">ai-vendor-response-agent</a></b><br/>
-      <b>(New)</b> RAG-based AI agent that ingests historical audit artifacts (SOC2/SIG) to autonomously answer incoming vendor security questionnaires.
+      RAG-based AI agent that ingests historical audit artifacts (SOC 2, SIG) to autonomously draft responses to incoming vendor security questionnaires.
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ My goal is **"Security as Code"**—building the architecture and automation tha
     <td width="50%">
       <h3>Legal Logic Engine</h3>
       <b><a href="https://github.com/codyjkeller/breach-notification-engine">breach-notification-engine</a></b><br/>
-      <b>(New)</b> API-first logic engine calculating mandatory notification deadlines for GDPR, HIPAA, and SEC Form 8-K based on incident severity.
+      API-first logic engine calculating mandatory notification deadlines for GDPR, HIPAA, and SEC Form 8-K based on incident severity.
     </td>
     <td width="50%">
       <h3>CISO Simulation Game</h3>
@@ -73,6 +73,8 @@ My goal is **"Security as Code"**—building the architecture and automation tha
   <img src="https://img.shields.io/badge/ISC²-CISSP-008000?style=for-the-badge" alt="CISSP"/>
   &nbsp;
   <img src="https://img.shields.io/badge/ISACA-CISM-008000?style=for-the-badge" alt="CISM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ISACA-CRISC-008000?style=for-the-badge" alt="CRISC"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CompTIA-Security+-B31B1B?style=for-the-badge" alt="Security+"/>
 </p>
